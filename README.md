@@ -15,6 +15,30 @@
 
 ---
 
+<div>
+  <h4></h4>
+  <h3><a class="none-copy" href="https://modlookup.3v.fi/u/LsCo" style="color: #FFF;">ModLookUp</a></h3>
+  <div class="border">
+     <h4>Mod in 14 Channels - Views total: 1 810 181</h4>
+     <h4>Follow total: 259 436 - Partners: 2</h4>
+  </div>
+</div>
+<style>
+.border {
+    border: solid;
+    font-size: 17px;
+    border-left: 20px;
+    border-right: 20px;
+    border-radius: 10px;
+    border-color: #FFF;
+    display: inline-block;
+    }
+.none-copy {
+    user-select: none;
+    }
+</style>
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
