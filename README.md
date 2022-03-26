@@ -23,20 +23,9 @@
      <h4>Follow total: 259 436 - Partners: 2</h4>
   </div>
 </div>
-<style>
-.border {
-    border: solid;
-    font-size: 17px;
-    border-left: 20px;
-    border-right: 20px;
-    border-radius: 10px;
-    border-color: #FFF;
-    display: inline-block;
-    }
-.none-copy {
-    user-select: none;
-    }
-</style>
+
+
+
 ---
 
 <details>
