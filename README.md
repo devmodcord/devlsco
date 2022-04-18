@@ -17,8 +17,8 @@
 </div>
 <div class="border">
 <div class="text-border">
-<h4>Follow total: <a class="underlined" id="text1">Loading...</a> - Views total: <a class="underlined" id="text2">Loading...</a></h4>
-<h4>Channels: <a class="underlined" id="text3">Loading...</a> - Partners: <a class="underlined" id="text4">Loading...</a></h4>
+<h4>Follow total: <a class="underlined" id="text1" src="./script.js">Loading...</a> - Views total: <a class="underlined" id="text2" src="./script.js">Loading...</a></h4>
+<h4>Channels: <a class="underlined" id="text3" src="./script.js">Loading...</a> - Partners: <a class="underlined" id="text4" src="./script.js">Loading...</a></h4>
 </div>
 </div>
 
