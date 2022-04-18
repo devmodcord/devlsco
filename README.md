@@ -8,7 +8,7 @@
 <br />
 
 ---
-<script src="./script.js" defer></script>
+
 <div class="title">
 <h1><a href=".">About Moderator</a></h1>
 </div>
