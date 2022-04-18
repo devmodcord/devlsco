@@ -1,8 +1,3 @@
-# Hello there, I'm Lennox aka. (LsCo)!
-
-[![Website](https://img.shields.io/website?label=devlsco.github.io&style=for-the-badge&url=https%3A%2F%2Fdevlsco.github.io)](https://devlsco.github.io/)
-
-### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code(vscode)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5(html)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
