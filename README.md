@@ -6,22 +6,21 @@
 <img align="left" alt="Node.js(node)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <br />
-<br />
 
 ---
-
-            <div class="title">
-                <h1><a href=".">About Moderator</a></h1>
-            </div>
-            <div>
-                <h3><a href="https://modlookup.3v.fi/u/LsCo">ModLookUp</a></h3>
-            </div>
-            <div class="border">
-                <div class="text-border">
-                    <h4>Follow total: <a class="underlined" id="text1">Loading...</a> - Views total: <a class="underlined" id="text2">Loading...</a></h4>
-                    <h4>Channels: <a class="underlined" id="text3">Loading...</a> - Partners: <a class="underlined" id="text4">Loading...</a></h4>
-                </div>
-            </div>
+<script src="./script.js" defer></script>
+<div class="title">
+<h1><a href=".">About Moderator</a></h1>
+</div>
+<div>
+<h3><a href="https://modlookup.3v.fi/u/LsCo">ModLookUp</a></h3>
+</div>
+<div class="border">
+<div class="text-border">
+<h4>Follow total: <a class="underlined" id="text1">Loading...</a> - Views total: <a class="underlined" id="text2">Loading...</a></h4>
+<h4>Channels: <a class="underlined" id="text3">Loading...</a> - Partners: <a class="underlined" id="text4">Loading...</a></h4>
+</div>
+</div>
 
 ---
 
