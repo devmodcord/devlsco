@@ -31,10 +31,12 @@ All commands can be found here: [devlsco.github.io/bots/lsco/commands](https://D
 - **Owner**
 
 **!restart**
+
 **!add admin <user>**
 - **Admin**
 
 **!join/part <channel>**
+  
 **!block/blockbot <user>**
 - **Rgular**
 
