@@ -1,4 +1,4 @@
-## Hello! I'm a junior Twitch Moderator- & Bot Developer
+## Hello! I'm a Junior Twitch Moderator- & Developer
 
 <h3>Dev-Tools</h3>
 <img align="left" alt="Visual Studio Code(vscode)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
