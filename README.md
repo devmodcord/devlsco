@@ -11,18 +11,38 @@
 
 ---
 
-<div class="title">
-<h1><a href=".">About Moderator</a></h1>
-</div>
-<div>
-<h3><a href="https://modlookup.3v.fi/u/LsCo">ModLookUp</a></h3>
-</div>
-<div class="border">
-<div class="text-border">
-<h4>Follow total: <a class="underlined" id="text1" src="./script.js">Loading...</a> - Views total: <a class="underlined" id="text2" src="./script.js">Loading...</a></h4>
-<h4>Channels: <a class="underlined" id="text3" src="./script.js">Loading...</a> - Partners: <a class="underlined" id="text4" src="./script.js">Loading...</a></h4>
-</div>
-</div>
+### Contact
+> - Twitter: [InfoLsCo](https://twitter.com/infoLsCo/)
+
+> - Discord: [LsCo#5877](https://discord.com/users/801790169673498664)
+
+> - Twitch DM's
+
+### About LsCo Bot
+## - Infos
+My LsCo(myself) bot is for chat Moderation -and Fun. Prefix: !
+
+## - Join/Part
+You can Join the bot if you do !Join in the Chat. If you don't want me anymore !Part in the Chat.
+
+### -  Commands
+All commands can be found here: [devlsco.github.io/bots/lsco/commands](https://DevLsCo.github.io/bots/lsco/commands)
+## Owner/Admin/Rgular Commands
+- **Owner**
+
+**!restart**
+**!add admin <user>**
+- **Admin**
+
+**!join/part <channel>**
+**!block/blockbot <user>**
+- **Rgular**
+
+**See Command list**
+
+
+## - Report
+If my Bot have Bugs, See **Contact** or Join the [Discord Server](https://discord.gg/5KSKdmjnXx) and Contact me.
 
 ---
 
