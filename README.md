@@ -11,18 +11,18 @@
 
 ---
 
-### Contact
+## Contact
 > - Twitter: [InfoLsCo](https://twitter.com/infoLsCo/)
 
 > - Discord: [LsCo#5877](https://discord.com/users/801790169673498664)
 
 > - Twitch DM's
 
-### About LsCo Bot
+## About LsCo Bot
 ## - Infos
 My LsCo(myself) bot is for chat Moderation -and Fun. Prefix: !
 
-## - Join/Part
+### - Join/Part
 You can Join the bot if you do !Join in the Chat. If you don't want me anymore !Part in the Chat.
 
 ### -  Commands
