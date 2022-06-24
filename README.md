@@ -1,4 +1,4 @@
-## Hello! I'm a Junior Twitch Moderator- & Developer
+## Hello! I'm a Junior Moderator & Developer.
 
 <h3>Dev-Tools</h3>
 <img align="left" alt="Visual Studio Code(vscode)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -17,34 +17,6 @@
 > - Discord: [LsCo#5877](https://discord.com/users/801790169673498664)
 
 > - Twitch DM's
-
-## About LsCo Bot
-## - Infos
-My LsCo(myself) bot is for chat Moderation -and Fun. Prefix: !
-
-### - Join/Part
-You can Join the bot if you do !Join in the Chat. If you don't want me anymore !Part in the Chat.
-
-### -  Commands
-All commands can be found here: [devlsco.github.io/bots/lsco/commands](https://DevLsCo.github.io/bots/lsco/commands)
-## Owner/Admin/Rgular Commands
-- **Owner**
-
-**!restart**
-
-**!add admin <user>**
-- **Admin**
-
-**!join/part <channel>**
-  
-**!block/blockbot <user>**
-- **Rgular**
-
-**See Command list**
-
-
-## - Report
-If my Bot have Bugs, See **Contact** or Join the [Discord Server](https://discord.gg/5KSKdmjnXx) and Contact me.
 
 ---
 
